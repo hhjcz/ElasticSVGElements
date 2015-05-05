@@ -125,6 +125,7 @@ a:focus {
 	font-variant: normal;
 	font-family: 'codropsicons';
 	line-height: 1;
+	/*noinspection CssUnknownProperty*/
 	speak: none;
 	-webkit-font-smoothing: antialiased;
 }
